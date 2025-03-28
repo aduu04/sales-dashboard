@@ -16,6 +16,5 @@ This Power BI dashboard provides an interactive and visual representation of an 
 ## 🛠️ Technologies Used  
 - **Power BI** – For data visualization and dashboard creation.  
 - **SQL** – For data extraction and transformation (if applicable).  
-- **Excel/CSV** – Source data files for analysis.  
-
-## 📂 Project Structure  
+- **CSV** – Source data file for analysis.  
+  
